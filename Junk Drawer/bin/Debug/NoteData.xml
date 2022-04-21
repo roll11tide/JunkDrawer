@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfNote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Note>
+    <Subject>Subject #1</Subject>
+    <Date>05/21/16</Date>
+    <NoteText>whaddup bau0ss</NoteText>
+    <Encrypted>true</Encrypted>
+  </Note>
+  <Note>
+    <Subject>eyy</Subject>
+    <Date>05/29/16</Date>
+    <NoteText>lmao</NoteText>
+    <Encrypted>false</Encrypted>
+  </Note>
+  <Note>
+    <Subject>eyywhaddup</Subject>
+    <Date>05/29/16</Date>
+    <NoteText>rh7BsTLeN5HZDo9l42msAcOYbYMgUS+184VTibVkMJ7aiOILlKSxbG9jPXRIzuqxAqPCx4pLH1u+XkmEHChFsJbNWQonvAhWYSbb+5GfTVXNtAJRhzHBrH+srWlnswJf</NoteText>
+    <Encrypted>true</Encrypted>
+  </Note>
+</ArrayOfNote>

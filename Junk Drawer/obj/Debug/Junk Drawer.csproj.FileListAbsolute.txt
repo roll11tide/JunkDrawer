@@ -1,0 +1,55 @@
+D:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\bin\Debug\MS Word.ico
+D:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\bin\Debug\Junk Drawer.exe.config
+D:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\bin\Debug\Junk Drawer.exe
+D:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\bin\Debug\Junk Drawer.pdb
+D:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Connection_Box.resources
+D:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Email_Sender.resources
+D:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Form1.resources
+D:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.GetInput.resources
+D:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Note_Builder.resources
+D:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Properties.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk Drawer.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk Drawer.exe
+D:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk Drawer.pdb
+W:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\bin\Debug\MS Word.ico
+W:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\bin\Debug\Junk Drawer.exe.config
+W:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\bin\Debug\Junk Drawer.exe
+W:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\bin\Debug\Junk Drawer.pdb
+W:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Connection_Box.resources
+W:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Email_Sender.resources
+W:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Form1.resources
+W:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.GetInput.resources
+W:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Note_Builder.resources
+W:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Properties.Resources.resources
+W:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk Drawer.csproj.GenerateResource.Cache
+W:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk Drawer.exe
+W:\Documents\Visual Studio 2015\Projects\Junk Drawer\Junk Drawer\obj\Debug\Junk Drawer.pdb
+C:\Users\Jesse\Dropbox\Projects\VS\Junk Drawer\Junk Drawer\bin\Debug\Junk Drawer.exe.config
+C:\Users\Jesse\Dropbox\Projects\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk Drawer.exe
+C:\Users\Jesse\Dropbox\Projects\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk Drawer.pdb
+C:\Users\Jesse\Dropbox\Projects\VS\Junk Drawer\Junk Drawer\bin\Debug\MS Word.ico
+C:\Users\Jesse\Dropbox\Projects\VS\Junk Drawer\Junk Drawer\bin\Debug\Junk Drawer.exe
+C:\Users\Jesse\Dropbox\Projects\VS\Junk Drawer\Junk Drawer\bin\Debug\Junk Drawer.pdb
+C:\Users\Jesse\Dropbox\Projects\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk Drawer.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Dropbox\Projects\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Connection_Box.resources
+C:\Users\Jesse\Dropbox\Projects\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Email_Sender.resources
+C:\Users\Jesse\Dropbox\Projects\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Form1.resources
+C:\Users\Jesse\Dropbox\Projects\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.GetInput.resources
+C:\Users\Jesse\Dropbox\Projects\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Note_Builder.resources
+C:\Users\Jesse\Dropbox\Projects\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Properties.Resources.resources
+C:\Users\Jesse\Dropbox\Projects\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk Drawer.csproj.GenerateResource.Cache
+C:\Users\jesse\Box\Dropbox Project DL\VS\Junk Drawer\Junk Drawer\bin\Debug\MS Word.ico
+C:\Users\jesse\Box\Dropbox Project DL\VS\Junk Drawer\Junk Drawer\bin\Debug\Junk Drawer.exe.config
+C:\Users\jesse\Box\Dropbox Project DL\VS\Junk Drawer\Junk Drawer\bin\Debug\Junk Drawer.exe
+C:\Users\jesse\Box\Dropbox Project DL\VS\Junk Drawer\Junk Drawer\bin\Debug\Junk Drawer.pdb
+C:\Users\jesse\Box\Dropbox Project DL\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk Drawer.csproj.AssemblyReference.cache
+C:\Users\jesse\Box\Dropbox Project DL\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Connection_Box.resources
+C:\Users\jesse\Box\Dropbox Project DL\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Email_Sender.resources
+C:\Users\jesse\Box\Dropbox Project DL\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Form1.resources
+C:\Users\jesse\Box\Dropbox Project DL\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.GetInput.resources
+C:\Users\jesse\Box\Dropbox Project DL\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Note_Builder.resources
+C:\Users\jesse\Box\Dropbox Project DL\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk_Drawer.Properties.Resources.resources
+C:\Users\jesse\Box\Dropbox Project DL\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk Drawer.csproj.GenerateResource.cache
+C:\Users\jesse\Box\Dropbox Project DL\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk Drawer.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Box\Dropbox Project DL\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk Drawer.exe
+C:\Users\jesse\Box\Dropbox Project DL\VS\Junk Drawer\Junk Drawer\obj\Debug\Junk Drawer.pdb
